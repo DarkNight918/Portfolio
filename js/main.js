@@ -30,7 +30,7 @@
   	------------------------------------------------------ */
   	setTimeout(function() {
 
-   	$('#intro h1').fitText(1, { minFontSize: '42px', maxFontSize: '84px' });
+   	$('#intro h1').fitText(1, { minFontSize: '42px', maxFontSize: '70px' });
 
   	}, 100);
 
