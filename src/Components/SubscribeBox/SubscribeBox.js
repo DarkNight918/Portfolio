@@ -22,7 +22,7 @@ const SubscribeBox = () => {
 
                         <h2 className="service-font1">CONTACTS NOW</h2>
                         <p>Call Me : +380 44 175 0960</p>
-                        <p>Email Me : darknight.dev0918918@gmail.com</p>
+                        <p>Email Me : darknight.dev0918@gmail.com</p>
 
                     </div>
 
