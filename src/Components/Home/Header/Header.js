@@ -38,7 +38,7 @@ const Header = () => {
                       <br/>
 
                       <div className="buttons">
-                        <a href={Resume} download="Hardy_Resume">
+                        <a href={Resume} download="Mykola_Resume">
                           <Button className="btn-hover color-2"><FontAwesomeIcon icon={faEye}  />  Download CV</Button>
                         </a>
                       </div>

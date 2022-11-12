@@ -17,8 +17,8 @@ const Services = () => {
             imageUrl: '../img/CityRider.PNG'
         },
         {
-            title: 'React Native Development',
-            description: ' Using react native I can create android and IOS apps for you and your business.',
+            title: 'Mobile Development',
+            description: ' Using react native and Flutter I can create android and IOS apps for you and your business.',
             imageUrl: '../img/CityRider.PNG'
 
         }
